@@ -1,7 +1,13 @@
-## Hi there 👋
+Hi there 👋 Ary here
 
-I'm a human being having an amazing experience diving into the exciting world of front-end development. Here's a little about my journey so far:  
+Still a human being having an amazing experience, just a few layers further down the rabbit hole than last time. I build full-stack things in TypeScript.
 
-- 🔭 I’m currently working on building my first few projects to strengthen my HTML, CSS, and JavaScript skills.  
-- 🌱 I’m currently learning the fundamentals of responsive design, JavaScript frameworks like React, and Git among many.  
-- 👯 I’m always looking to work on cool projects to gain real-world experience.  
+- 🔭 Building web platforms for South African businesses, from first sketch to deploy
+- 🧠 Rebuilding things from scratch to see how they really work (promises, virtual DOMs, Node servers), lately all the way down into libuv and C
+- 🗺️ Making interactive explainers for how JavaScript, Node and React work under the hood. About 200 so far 😎
+- 🤖 Giving agents everything they need to know, then checking their homework
+- 👯 Looking for a full-time role at a startup where I can learn from great engineers and help across the stack
+
+**Usually found in:** TypeScript · React · Next.js · Node.js · PostgreSQL · AWS · Vim (and yes, I can exit it)
+
+💼 [LinkedIn](https://www.linkedin.com/in/aryscene-violabian-7a9aa6128)
