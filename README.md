@@ -8,6 +8,6 @@ Still a human being having an amazing experience, just a few layers further down
 - 🤖 Giving agents everything they need to know, then checking their homework
 - 👯 Looking for a full-time role at a startup where I can learn from great engineers and help across the stack
 
-**Usually found in:** TypeScript · React · Next.js · Node.js · PostgreSQL · AWS · Vim (and yes, I can exit it)
+**Usually found in:** TypeScript · React · Next.js · Node.js · PostgreSQL · AWS 
 
 💼 [LinkedIn](https://www.linkedin.com/in/aryscene-violabian-7a9aa6128)
