@@ -10,4 +10,4 @@ Still a human being having an amazing experience, just a few layers further down
 
 **Usually found in:** TypeScript · React · Next.js · Node.js · PostgreSQL · AWS 
 
-💼 [LinkedIn](https://www.linkedin.com/in/aryscene-violabian-7a9aa6128)
+💼 [LinkedIn](https://www.linkedin.com/in/aryscène-violabian-7a9aa6128)
