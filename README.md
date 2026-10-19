@@ -4,9 +4,9 @@ Still a human being having an amazing experience, just a few layers further down
 
 - 🔭 Building web platforms for South African businesses, from first sketch to deploy
 - 🧠 Rebuilding things from scratch to see how they really work (promises, virtual DOMs, Node servers), lately all the way down into libuv and C
-- 🗺️ Making interactive explainers for how JavaScript, Node and React work under the hood. About 200 so far 😎
+- 🗺️ Making interactive explainers for how JavaScript ecosystem technologies like Node and React work under the hood. About 200 so far with 81 live on [JIT-Atlas](https://jit-atlas.github.io)😎
 - 🤖 Giving agents everything they need to know, then checking their homework
-- 👯 Looking for a full-time role at a startup where I can learn from great engineers and help across the stack
+- 👯 Looking for a full-time role where I can learn from great engineers and help across the stack
 
 **Usually found in:** TypeScript · React · Next.js · Node.js · PostgreSQL · AWS 
 
